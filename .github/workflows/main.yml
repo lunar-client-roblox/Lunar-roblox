@@ -16,3 +16,4 @@ jobs:
         with:
           name: Fabric-Mod
           path: build/libs/*.jar
+# test
